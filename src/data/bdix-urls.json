@@ -1,0 +1,4327 @@
+[
+  {
+    "name": "CIRCLE",
+    "url": "http://new.circleftp.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://10.1.1.1",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://10.1.1.1/Data",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://10.10.10.10",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://10.10.10.10:8080",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://10.100.100.2",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://10.100.100.2/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://10.16.100.202/ftps10",
+    "type": "FTP"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://10.16.100.206/ftps3",
+    "type": "FTP"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://10.16.100.244",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://10.16.100.244/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://10.16.100.244/livetv.php",
+    "type": "TV"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.102.253.25",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.102.253.250",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.102.253.250/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.102.27.17",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.102.27.170",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.103.239.66",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.103.239.66/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.106.238.74",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.106.238.74/Data",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.106.59.226:8096/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.109.56.11",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.109.56.114",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.109.56.115",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.110.126.146:8000",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.112.63.21",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.113.16.46/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.113.16.46/Data",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.114.36.14/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.115.82.254",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.117.231.22",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.119.100.54/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.120.165.196",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.126.12.226/allmovies.php?page=1&entries=64&sort=DESC&w=grid",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.132.187.18/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.132.187.18/Data",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.133.175.242/80",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.133.175.242/80/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.135.134.226/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.135.208.2",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.135.208.2/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.14.129.246/data",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.14.26.22/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.14.27.27",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.152.18.18",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.152.18.18/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.152.18.18/Data/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.153.175.254",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.195.1.50",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.195.1.50/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.195.1.50/Data",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.199.155.150",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.199.155.150/ftpdata",
+    "type": "FTP"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.2.226.208/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.200.36.24",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.200.36.242",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.200.36.250",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.203.93.2/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.203.94.1:8065",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.203.94.1:8065/web/index.html#!/movies?serverId=acd4792e8e024e6681e1622a2d343604&parentId=3FaRoR1WUeDewSND8Ed1vyn1Lk5yXq8ZUo",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.204.211.51/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.204.244.70/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.204.244.70/Data/Data",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.205.233.70/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.205.233.70/Data",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.214.200.94",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.219.232.190",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.219.232.190/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.222.20.150",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.222.20.150/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.222.20.150/ftpdata/",
+    "type": "FTP"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.229.18.142/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.229.80.90",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.231.161.15",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.231.228.22",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.237.37.181/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.25.120.119",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.251.247.147",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.29.127.14",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.3.226.20",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.3.226.208",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.3.226.208/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.35.168.21",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.43.148.68/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.49.168.10",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.49.168.107",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.56.6.6/Data",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.58.73.13/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.58.73.9",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.70.140.14",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.70.140.14/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.76.196.90",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.76.196.90/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.77.252.113/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.81.104.98",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.81.104.98/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.82.8.194",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.82.8.194/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.82.8.194/Data/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.85.160.7",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.85.197.10",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.85.197.10/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.85.235.25",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.85.235.254",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.85.235.254/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.85.235.254/storage",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.86.200.7",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.86.200.7/web/index.html#!/home",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.87.212.46",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.87.212.46/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.91.144.23",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.91.144.230",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.91.144.230/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.91.144.230/ftpdata",
+    "type": "FTP"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.92.144.230/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.92.213.55/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://103.96.36.115",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://11.11.11.11",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://113.212.111.244/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://118.179.223.51/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://12.1.1.1/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://12.1.1.2",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://12.1.1.2/FTP/",
+    "type": "FTP"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://12.1.1.3/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://12.1.1.3/flix",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://144.48.110.190:8080/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://146.196.48.10",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://146.196.48.10/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://146.196.48.9",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://146.196.48.9/web/index.html#!/movies?serverId=8c1b4d88ca1d47b4b46dc38228d00dc7&parentId=fb6af48929bdab3445c3dc034d5dc92c",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://15.1.1.1",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://15.1.1.1/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://15.1.1.4/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://15.1.1.5/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://15.1.1.6/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://160.202.146.220",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://160.202.146.220/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://162.12.215.254",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.102.0.3",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.127.27.102/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.16.16.16",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.16.16.3",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.16.16.5",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.16.16.6",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.16.29.250/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.16.50.2",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.16.50.2/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "DhakaFlix",
+    "url": "http://172.16.50.4",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.16.50.4/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.16.50.5",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.16.50.5/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.16.50.6/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.16.50.9/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "DhakaFlix",
+    "url": "http://172.16.50.12/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.17.172.242/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.17.254.2",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.17.50.112/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.2.2.2:80",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.20.0.19",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.20.0.20",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.22.22.10:32400/web/index.html#",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.22.22.100",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.22.22.101",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.22.22.101/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.22.22.101/home/index.php",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.22.22.105:8096/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.22.22.76/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.27.100.3",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.27.27.1/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.27.27.124/s1d1",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.27.27.233",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.27.27.244/2TB1",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.27.27.245/2TB1",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.27.27.248/2TB1",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.27.27.249",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.27.27.250",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.27.27.250/2TB1",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.27.27.251",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.27.27.251/2TB2",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.27.27.252",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.27.27.252/2TB2",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.27.27.253",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.27.27.26//2TB4",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.27.27.4",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.27.27.5",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.27.27.83",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.27.27.83/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.27.27.84",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.27.27.84/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.28.28.1",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.28.28.10",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.28.28.6",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://172.30.2.14",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://178.216.250.167",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://180.211.219.245",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://192.168.100.16",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://192.168.100.16:8096",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://192.168.100.5/fastnet",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://202.4.96.121/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://202.94.164.102",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://203.83.177.225",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://203.83.177.225/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://220.152.114.214/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://220.158.235.24",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://220.158.235.243",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://220.158.235.244",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://30.30.30.30/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "3NETBD",
+    "url": "http://3netbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://45.113.238.130",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://45.120.114.222/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://45.120.114.222/HDD5/English%20Movies/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://45.123.41.54/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://45.123.41.54/Data",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://45.127.244.3:81/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://45.250.20.19/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://59.152.101.198/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://59.152.96.75/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "http://59.152.96.75/citynet71/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "ABC FLIXBD",
+    "url": "http://abcflixbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "ABC FLIXBD",
+    "url": "http://abcflixbd.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "ABC MOVIESBD",
+    "url": "http://abcmoviesbd.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "AKKADUKKA",
+    "url": "http://akkadukka.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "AKKADUKKA",
+    "url": "http://akkadukka.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "AK LIVE TV",
+    "url": "http://aklivetv.com",
+    "type": "TV"
+  },
+  {
+    "name": "AK TUBE LIVE",
+    "url": "http://aktube.live/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "ALPHA MEDIA ZONE",
+    "url": "http://alphamediazone.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "ALPHA MEDIA ZONE MOVIEDOM",
+    "url": "http://alphamediazone.com/moviedom/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "AMADER",
+    "url": "http://amaderftp.net/",
+    "type": "FTP"
+  },
+  {
+    "name": "AMR",
+    "url": "http://amrbd.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "ANT HOUSE BD",
+    "url": "http://anthousebd.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "ARISHA BD",
+    "url": "http://arishabd.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "ASIAN",
+    "url": "http://asianftp.com",
+    "type": "FTP"
+  },
+  {
+    "name": "ASIAN",
+    "url": "http://asianftp.com/",
+    "type": "FTP"
+  },
+  {
+    "name": "BANGLA FLIX COM",
+    "url": "http://banglaflix.com.bd/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "BANGLA MOVIEO BLOGSPOT",
+    "url": "http://banglamovieo.blogspot.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "BD BROADBAND",
+    "url": "http://bdbroadband.com/ftp/",
+    "type": "FTP"
+  },
+  {
+    "name": "BD DREAM NET BLOGSPOT",
+    "url": "http://bddreamnet.blogspot.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "BD IPTV",
+    "url": "http://bdiptv.com/",
+    "type": "TV"
+  },
+  {
+    "name": "BD IPTV STREAM",
+    "url": "http://bdiptv.stream/",
+    "type": "TV"
+  },
+  {
+    "name": "BD IX HITECH ISP",
+    "url": "http://bdix.hitechisp.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "BD IX MTBSL SERVER",
+    "url": "http://bdix.mtbsl.com/server.php",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "BD IX TORRENT HOME",
+    "url": "http://bdixtorrenthome.blogspot.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "BD IX TV LIVE",
+    "url": "http://bdixtv.live/",
+    "type": "TV"
+  },
+  {
+    "name": "BD LAN",
+    "url": "http://bdlan.net/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "BD MOVIES",
+    "url": "http://bdmovies.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "BD PLEX",
+    "url": "http://bdplex.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "BD PLEX",
+    "url": "http://bdplex.net/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "BD TV LIVE",
+    "url": "http://bdtv.live",
+    "type": "TV"
+  },
+  {
+    "name": "BD TV LIVE",
+    "url": "http://bdtv.live/",
+    "type": "TV"
+  },
+  {
+    "name": "BEEFLIX BIZ",
+    "url": "http://beeflix.biz/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "BINODONMELA",
+    "url": "http://binodonmela.net/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "BITFLIX",
+    "url": "http://bitflixbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "BLURAYS2U SMILEDOTNET XYZ",
+    "url": "http://blurays2u.smiledotnet.xyz",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "BMIT",
+    "url": "http://bmitbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "BOSS BD LIVE",
+    "url": "http://bossbd.live",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "C1 LIVE",
+    "url": "http://c1live.com",
+    "type": "TV"
+  },
+  {
+    "name": "C1 LIVE",
+    "url": "http://c1live.com/",
+    "type": "TV"
+  },
+  {
+    "name": "C247 SE",
+    "url": "http://c247.se/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CANDY BD",
+    "url": "http://candybd.net/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CDN BOSS BD",
+    "url": "http://cdn.bossbd.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CDN BOSS BD",
+    "url": "http://cdn.bossbd.net/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CDN LINK",
+    "url": "http://cdn.linkftp.com",
+    "type": "FTP"
+  },
+  {
+    "name": "CDN MANGO GAMERS",
+    "url": "http://cdn.mangogamers.com/Mango%20Gamers/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CDN MIDIPLEX",
+    "url": "http://cdn.midiplex.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CDN MIDIPLEX",
+    "url": "http://cdn.midiplex.net/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CDN ROARMEDIAZONE",
+    "url": "http://cdn.roarmediazone.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CDN ROARZONE INFO",
+    "url": "http://cdn.roarzone.info/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CDN SERVER BD247",
+    "url": "http://cdn.serverbd247.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CDN1 BOSS BD",
+    "url": "http://cdn1.bossbd.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CDN1 BOSS BD",
+    "url": "http://cdn1.bossbd.net/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CDN2 BOSS BD",
+    "url": "http://cdn2.bossbd.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CDN2 BOSS BD",
+    "url": "http://cdn2.bossbd.net/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CDN2 MOVIEHAAT NET 8080 UPLOAD",
+    "url": "http://cdn2.moviehaat.net:8080/Upload/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CHAYACHOBI",
+    "url": "http://chayachobi.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CHAYACHOBI",
+    "url": "http://chayachobi.net/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CINEMABAZAR",
+    "url": "http://cinemabazar.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CINEMABAZAR",
+    "url": "http://cinemabazar.net/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CINEMABAZAR NET DATA NAS1",
+    "url": "http://cinemabazar.net/DATA/NAS1",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CINEMA CITY LIVE",
+    "url": "http://cinemacity.live",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CINEMA CITY LIVE",
+    "url": "http://cinemacity.live/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CIRCLE FTP",
+    "url": "http://circleftp.net",
+    "type": "FTP"
+  },
+  {
+    "name": "CIRCLE FTP",
+    "url": "http://circleftp.net/",
+    "type": "FTP"
+  },
+  {
+    "name": "CITY CLOUD BD",
+    "url": "http://citycloudbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CITY NET BD",
+    "url": "http://citynetbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CLOUDONE COM",
+    "url": "http://cloudone.com.bd",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CONTENT2 BINODONMELA",
+    "url": "http://content2.binodonmela.net/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CRAZY CTG",
+    "url": "http://crazyctg.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CRAZY CTG",
+    "url": "http://crazyctg.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CTG BOX",
+    "url": "http://ctgbox.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CTG FUN",
+    "url": "http://ctgfun.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CTG MOVIES",
+    "url": "http://ctgmovies.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CTG MOVIES",
+    "url": "http://ctgmovies.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CTG OZ",
+    "url": "http://ctgoz.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CTG STREAM",
+    "url": "http://ctgstream.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CTG TV LIVE",
+    "url": "http://ctgtv.live",
+    "type": "TV"
+  },
+  {
+    "name": "DATA KENECOLOR",
+    "url": "http://data.kenecolor.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "DB1 MOVIEBOXBD COM RDMS",
+    "url": "http://db1.movieboxbd.com/RDMS/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "DEKH VHAI",
+    "url": "http://dekhvhai.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "DESH ONLINE BD",
+    "url": "http://deshonlinebd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "DFLIX DISCOVERY FTP",
+    "url": "http://dflix.discoveryftp.net/",
+    "type": "FTP"
+  },
+  {
+    "name": "DFLIX DISCOVERY FTP NET M",
+    "url": "http://dflix.discoveryftp.net/m",
+    "type": "FTP"
+  },
+  {
+    "name": "DFLIX LIVE",
+    "url": "http://dflix.live",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "DFLIX LIVE",
+    "url": "http://dflix.live/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "DHAKA FTP",
+    "url": "http://dhakaftp.com",
+    "type": "FTP"
+  },
+  {
+    "name": "DHAKA FTP",
+    "url": "http://dhakaftp.com/",
+    "type": "FTP"
+  },
+  {
+    "name": "DHAKA FTP COM DATA",
+    "url": "http://dhakaftp.com/Data",
+    "type": "FTP"
+  },
+  {
+    "name": "DHAKA IPTV",
+    "url": "http://dhakaiptv.com",
+    "type": "TV"
+  },
+  {
+    "name": "DHAKA MOVIE",
+    "url": "http://dhakamovie.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "DHAKA MOVIE",
+    "url": "http://dhakamovie.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "DHAKA MOVIE TUBE",
+    "url": "http://dhakamovietube.com/tube/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "DIGBAZI",
+    "url": "http://digbazi.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "DIGINET BD",
+    "url": "http://diginetbd.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "DISCOVERY FTP",
+    "url": "http://discoveryftp.net",
+    "type": "FTP"
+  },
+  {
+    "name": "DL BITNET BD",
+    "url": "http://dl.bitnetbd.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "DOWNLOAD ECTLINK",
+    "url": "http://download.ectlink.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "DUGDUGI LIVE",
+    "url": "http://dugdugilive.com",
+    "type": "TV"
+  },
+  {
+    "name": "DUGDUG LIVE",
+    "url": "http://dugduglive.com",
+    "type": "TV"
+  },
+  {
+    "name": "EM DFN BD NET 81",
+    "url": "http://em.dfnbd.net:81/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "EMBY RANGDHANU LIVE",
+    "url": "http://emby.rangdhanu.live",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "EVONET BD",
+    "url": "http://evonetbd.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "EXPLORE ONLINE BD",
+    "url": "http://exploreonlinebd.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "F4 CINEPLEX MY FTP ORG",
+    "url": "http://f4cineplex.myftp.org",
+    "type": "FTP"
+  },
+  {
+    "name": "FILE KHULNA FLIX",
+    "url": "http://file.khulnaflix.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FILE KHULNA FLIX",
+    "url": "http://file.khulnaflix.net/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FILE TAJPATA",
+    "url": "http://file.tajpata.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FILE TAJPATA",
+    "url": "http://file.tajpata.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FILE TAJPATA COM DOWNLOADS",
+    "url": "http://file.tajpata.com/downloads/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FILE SERVER EBOX LIVE",
+    "url": "http://fileserver.ebox.live",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FILE SERVER EBOX LIVE",
+    "url": "http://fileserver.ebox.live/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FILM GURO SITE",
+    "url": "http://filmguro.site",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FLASH NET BD",
+    "url": "http://flashnetbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FLIX HUB",
+    "url": "http://flixhub.net/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FLIX HUB NET DATA",
+    "url": "http://flixhub.net/Data",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FN BD",
+    "url": "http://fn-bd.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FOCUS FLIX COM",
+    "url": "http://focusflix.com/ftp",
+    "type": "FTP"
+  },
+  {
+    "name": "FS AMR BD",
+    "url": "http://fs.amrbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FS AMR BD",
+    "url": "http://fs.amrbd.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FS ATS BD NET",
+    "url": "http://fs.ats-bd.net/ftp/",
+    "type": "FTP"
+  },
+  {
+    "name": "FS EBOX LIVE",
+    "url": "http://fs.ebox.live",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FS EBOX LIVE",
+    "url": "http://fs.ebox.live/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FS EVILLAGE CTG",
+    "url": "http://fs.evillagectg.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FS EVILLAGE CTG",
+    "url": "http://fs.evillagectg.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FS EVONET BD",
+    "url": "http://fs.evonetbd.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FS MOVIEMELA LIVE 8096",
+    "url": "http://fs.moviemela.live:8096",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FS RANGDHANU LIVE",
+    "url": "http://fs.rangdhanu.live",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FS RANGDHANU LIVE",
+    "url": "http://fs.rangdhanu.live/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FS RANGDHANU LIVE FTP1",
+    "url": "http://fs.rangdhanu.live/FTP1/",
+    "type": "FTP"
+  },
+  {
+    "name": "FS1 DFLIX LIVE",
+    "url": "http://fs1.dflix.live",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FS1 DFLIX LIVE",
+    "url": "http://fs1.dflix.live/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FS1 MEBD",
+    "url": "http://fs1.mebd.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FS2 AMR BD",
+    "url": "http://fs2.amrbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FS2 AMR BD",
+    "url": "http://fs2.amrbd.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FS2 EBOX LIVE",
+    "url": "http://fs2.ebox.live",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FTP ALPHA MEDIA ZONE",
+    "url": "http://ftp.alphamediazone.com",
+    "type": "FTP"
+  },
+  {
+    "name": "FTP ALPHA MEDIA ZONE",
+    "url": "http://ftp.alphamediazone.com/",
+    "type": "FTP"
+  },
+  {
+    "name": "FTP COM",
+    "url": "http://ftp.com.bd",
+    "type": "FTP"
+  },
+  {
+    "name": "FTP MIDIPLEX HD",
+    "url": "http://ftp.midiplexhd.com",
+    "type": "FTP"
+  },
+  {
+    "name": "FTP TIMEPASS BD LIVE",
+    "url": "http://ftp.timepassbd.live",
+    "type": "FTP"
+  },
+  {
+    "name": "FTP TIMEPASS BD LIVE",
+    "url": "http://ftp.timepassbd.live/",
+    "type": "FTP"
+  },
+  {
+    "name": "FTP1 ALIFLAILA BD",
+    "url": "http://ftp1.aliflailabd.com/",
+    "type": "FTP"
+  },
+  {
+    "name": "FTP1 CIRCLE FTP",
+    "url": "http://ftp1.circleftp.net",
+    "type": "FTP"
+  },
+  {
+    "name": "FTP2 CIRCLE FTP",
+    "url": "http://ftp2.circleftp.net",
+    "type": "FTP"
+  },
+  {
+    "name": "FTP2 CIRCLE FTP",
+    "url": "http://ftp2.circleftp.net/",
+    "type": "FTP"
+  },
+  {
+    "name": "FTP3 CIRCLE FTP",
+    "url": "http://ftp3.circleftp.net/",
+    "type": "FTP"
+  },
+  {
+    "name": "FTP4 CIRCLE FTP",
+    "url": "http://ftp4.circleftp.net/",
+    "type": "FTP"
+  },
+  {
+    "name": "FTP BD",
+    "url": "http://ftpbd.com/",
+    "type": "FTP"
+  },
+  {
+    "name": "FTP BD",
+    "url": "http://ftpbd.net",
+    "type": "FTP"
+  },
+  {
+    "name": "FTP BD",
+    "url": "http://ftpbd.net/",
+    "type": "FTP"
+  },
+  {
+    "name": "FTP MOVIE SERVER",
+    "url": "http://ftpmovieserver.com",
+    "type": "FTP"
+  },
+  {
+    "name": "FTP WEB MAZEDA NETWORKS",
+    "url": "http://ftpweb.mazedanetworks.net",
+    "type": "FTP"
+  },
+  {
+    "name": "FUNTIME COM",
+    "url": "http://funtime.com.bd",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FUNTIME BD",
+    "url": "http://funtimebd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FUNTIME BD",
+    "url": "http://funtimebd.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FZ MOVIEMELA LIVE 8096",
+    "url": "http://fz.moviemela.live:8096",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "GAME ZX ONLINE BD",
+    "url": "http://game.zxonlinebd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "GHATAIL ONLINE",
+    "url": "http://ghatailonline.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "GLOBAL COMMUNICATION BD",
+    "url": "http://globalcommunicationbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "GP ISP",
+    "url": "http://gpisp.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "GREETINGS ONLINE BD",
+    "url": "http://greetingsonlinebd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "HD CIRCLE FTP",
+    "url": "http://hd.circleftp.net",
+    "type": "FTP"
+  },
+  {
+    "name": "HD CIRCLE FTP",
+    "url": "http://hd.circleftp.net/",
+    "type": "FTP"
+  },
+  {
+    "name": "HD TV RANGDHANU LIVE",
+    "url": "http://hdtv.rangdhanu.live",
+    "type": "TV"
+  },
+  {
+    "name": "IBOX BD LIVE",
+    "url": "http://iboxbd.live",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "IBOX BD ONLINE",
+    "url": "http://iboxbd.online",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "ICC SMILEDOTNET XYZ",
+    "url": "http://icc.smiledotnet.xyz",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "IHUB LIVE",
+    "url": "http://ihub.live",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "IHUB LIVE",
+    "url": "http://ihub.live/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "IM ONLINE ISP",
+    "url": "http://imonlineisp.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "INOX BD",
+    "url": "http://inoxbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "IP TV KS NETWORK BD",
+    "url": "http://iptv.ksnetworkbd.com",
+    "type": "TV"
+  },
+  {
+    "name": "IP TV MCN BD",
+    "url": "http://iptv.mcnbd.com",
+    "type": "TV"
+  },
+  {
+    "name": "IT BASE BD",
+    "url": "http://itbasebd.net/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "JHAKKAS LIVE",
+    "url": "http://jhakkas.live",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "KAAT PW",
+    "url": "http://kaat.pw",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "KALPONIK NET",
+    "url": "http://kalponik.net.bd/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "KARSAN NET",
+    "url": "http://karsannet.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "KAWSAR IT",
+    "url": "http://kawsarit.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "KHULNA FLIX",
+    "url": "http://khulnaflix.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "KHULNA FLIX",
+    "url": "http://khulnaflix.net/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "KHULNA PLEX",
+    "url": "http://khulnaplex.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "KHULNA PLEX",
+    "url": "http://khulnaplex.net/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "KHULNA TV LIVE",
+    "url": "http://khulnatv.live",
+    "type": "TV"
+  },
+  {
+    "name": "LALBATTE",
+    "url": "http://lalbatte.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "LALBATTE",
+    "url": "http://lalbatte.net/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "LEAD TECHNOLOGY BD",
+    "url": "http://leadtechnologybd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "LIVE BD LAN",
+    "url": "http://live.bdlan.net",
+    "type": "TV"
+  },
+  {
+    "name": "LIVE MOVIE BAZAR",
+    "url": "http://live.moviebazar.net",
+    "type": "TV"
+  },
+  {
+    "name": "LIVE TV PHP",
+    "url": "http://livetv.php",
+    "type": "TV"
+  },
+  {
+    "name": "LOADBABA",
+    "url": "http://loadbaba.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MANGO GAMERS",
+    "url": "http://mangogamers.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MARS BOL BD",
+    "url": "http://mars.bolbd.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MARS BOL BD",
+    "url": "http://mars.bolbd.net/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MATHANOSTO TOP",
+    "url": "http://mathanosto.top",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MATHANOSTO TOP",
+    "url": "http://mathanosto.top/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MATHANOSTO TOP TV",
+    "url": "http://mathanosto.top/tv/",
+    "type": "TV"
+  },
+  {
+    "name": "MCPLEX BANGLA",
+    "url": "http://mcplexbangla.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MEDIA CTG FUN",
+    "url": "http://media.ctgfun.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MEDIA CTG FUN",
+    "url": "http://media.ctgfun.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MEDIA DFN BD",
+    "url": "http://media.dfnbd.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MEDIA DFN BD",
+    "url": "http://media.dfnbd.net/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MEDIA DNF BD",
+    "url": "http://media.dnfbd.net/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MEDIA FTP BD",
+    "url": "http://media.ftpbd.net",
+    "type": "FTP"
+  },
+  {
+    "name": "MEDIA FURIOUS NET",
+    "url": "http://media.furiousnet.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MEDIA NETMATRIX BD",
+    "url": "http://media.netmatrixbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MEDIA NETMATRIX BD",
+    "url": "http://media.netmatrixbd.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MEDIA UNIQUE24",
+    "url": "http://media.unique24.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MEDIA ZERO INTERNET",
+    "url": "http://media.zerointernet.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MEDIA LINK24",
+    "url": "http://medialink24.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MEDIA LINK24",
+    "url": "http://medialink24.net/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MEGAFLIX TV",
+    "url": "http://megaflix.tv",
+    "type": "TV"
+  },
+  {
+    "name": "METRO MEDIA DIGITAL",
+    "url": "http://metromedia.digital/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MIDIPLEX",
+    "url": "http://midiplex.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MIRPUR NET BD",
+    "url": "http://mirpurnetbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MOVIE BASNET BD",
+    "url": "http://movie.basnetbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MOVIE BASNET BD",
+    "url": "http://movie.basnetbd.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MOVIE MOVIEDOM LIVE DATA",
+    "url": "http://movie.moviedom.live/Data/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MOVIE SAM BD",
+    "url": "http://movie.sambd.net/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MOVIE SMARTNET LTD",
+    "url": "http://movie.smartnetltd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MOVIE SMARTNET LTD",
+    "url": "http://movie.smartnetltd.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MOVIE BAZAR",
+    "url": "http://moviebazar.net/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MOVIE BOX BD",
+    "url": "http://movieboxbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MOVIE BOX BD",
+    "url": "http://movieboxbd.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MOVIEHAAT",
+    "url": "http://Moviehaat.Net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MOVIEHAAT",
+    "url": "http://moviehaat.net/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MOVIES DISCOVERY FTP",
+    "url": "http://movies.discoveryftp.net",
+    "type": "FTP"
+  },
+  {
+    "name": "MOVIES DISCOVERY FTP",
+    "url": "http://movies.discoveryftp.net/",
+    "type": "FTP"
+  },
+  {
+    "name": "MOVIES FNF ONLINE BD",
+    "url": "http://movies.fnfonlinebd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MOVIES FNF ONLINE BD",
+    "url": "http://movies.fnfonlinebd.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MOVIES KLOUD COM",
+    "url": "http://movies.kloud.com.bd",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MOVIES KLOUD COM BD WEB",
+    "url": "http://movies.kloud.com.bd/web/index.html#!/home.html",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MTBSL",
+    "url": "http://mtbsl.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MTUB BDFUN CLUB",
+    "url": "http://mtub.bdfun.club/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "M TUBE BDFUN CLUB",
+    "url": "http://mtube.bdfun.club/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MTV SPORTS BDFUN CLUB",
+    "url": "http://mtv.sports.bdfun.club",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MY BDIX",
+    "url": "http://mybdix.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MY BDIX",
+    "url": "http://mybdix.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MY BD PLEX",
+    "url": "http://mybdplex.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MY BD PLEX",
+    "url": "http://mybdplex.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MY MOVIE BAZAR",
+    "url": "http://mymoviebazar.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MY MOVIE BAZAR",
+    "url": "http://mymoviebazar.net/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "NAGORDOLA LIVE",
+    "url": "http://nagordola.live",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "NAGORDOLA LIVE",
+    "url": "http://nagordola.live/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "NEEFIT",
+    "url": "http://neefit.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "NET CODE LIVE NETCODEMEDIA",
+    "url": "http://netcode.live/netcodemedia",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "NET CODE LIVE NETCODEMEDIA",
+    "url": "http://netcode.live/netcodemedia/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "NEW NATURAL BD",
+    "url": "http://new.naturalbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "OSTHIR",
+    "url": "http://osthir.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "OTV FTP BD",
+    "url": "http://otv.ftpbd.net",
+    "type": "FTP"
+  },
+  {
+    "name": "OTV FTP BD",
+    "url": "http://otv.ftpbd.net/",
+    "type": "FTP"
+  },
+  {
+    "name": "PANDA CLUB BD",
+    "url": "http://pandaclubbd.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "PATALPURI",
+    "url": "http://patalpuri.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "PLAY EBOX LIVE",
+    "url": "http://play.ebox.live/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "PLAY LINK FTP",
+    "url": "http://play.linkftp.com",
+    "type": "FTP"
+  },
+  {
+    "name": "PLUSBOX TV",
+    "url": "http://plusbox.tv",
+    "type": "TV"
+  },
+  {
+    "name": "POLLYFLIX",
+    "url": "http://pollyflix.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "POLLYFLIX",
+    "url": "http://pollyflix.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "PORTAL WORLD BD",
+    "url": "http://portal.worldbd.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "QUICK ONLINE FTP",
+    "url": "http://quickonlineftp.com",
+    "type": "FTP"
+  },
+  {
+    "name": "QUICK ONLINE FTP",
+    "url": "http://quickonlineftp.com/",
+    "type": "FTP"
+  },
+  {
+    "name": "RAHUL ENTERPRISE",
+    "url": "http://rahulenterprise.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "ROARMEDIAZONE",
+    "url": "http://roarmediazone.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "ROARMEDIAZONE COM LIVE TV",
+    "url": "http://roarmediazone.com/live-tv.html",
+    "type": "TV"
+  },
+  {
+    "name": "SB NETWORK BD",
+    "url": "http://sbnetworkbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "SERVER PAITARA",
+    "url": "http://server.paitara.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "SERVER1 FTP BD",
+    "url": "http://server1.ftpbd.net",
+    "type": "FTP"
+  },
+  {
+    "name": "SERVER2 FTP BD",
+    "url": "http://server2.ftpbd.net/",
+    "type": "FTP"
+  },
+  {
+    "name": "SERVER4 FTP BD",
+    "url": "http://server4.ftpbd.net",
+    "type": "FTP"
+  },
+  {
+    "name": "SERVER4 FTP BD",
+    "url": "http://server4.ftpbd.net/",
+    "type": "FTP"
+  },
+  {
+    "name": "SERVER BD247",
+    "url": "http://serverbd247.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "SG CDN IHUB LIVE GAMES",
+    "url": "http://sg-cdn.ihub.live:8787/download/games",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "SKYNET COM BD",
+    "url": "http://skynet.com.bd/ftp/",
+    "type": "FTP"
+  },
+  {
+    "name": "SMART ONLINE BD",
+    "url": "http://smartonlinebd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "SMILEDOTNET XYZ",
+    "url": "http://smiledotnet.xyz",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "SMILEPLEX NET 8096 HOME",
+    "url": "http://smileplex.net:8096/web/home.html",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "SPEED4YOU",
+    "url": "http://speed4you.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "SPIDER COMMUNICATION BD",
+    "url": "http://spidercommunicationbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "STARFLIX BD",
+    "url": "http://starflixbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "SUNPLEX",
+    "url": "http://sunplex.net/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "SUPERNET SENBAG",
+    "url": "http://supernetsenbag.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "SWAPNO NETWORK",
+    "url": "http://swapnonetwork.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "TETRAPLEX NET",
+    "url": "http://tetraplex.net.bd",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "THE INTROVISION",
+    "url": "http://theintrovision.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "THE INTROVISION COM DOWNLOAD",
+    "url": "http://theintrovision.com/download-server/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "TIMENAI",
+    "url": "http://timenai.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "TIMENAI",
+    "url": "http://timenai.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "TIMENEI",
+    "url": "http://timenei.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "TODAY VISION BD",
+    "url": "http://todayvisionbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "TOKIS XYZ",
+    "url": "http://tokis.xyz",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "TOKIS XYZ",
+    "url": "http://tokis.xyz/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "TORRENT DFN BD",
+    "url": "http://torrent.dfnbd.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "TUBE DFN BD",
+    "url": "http://tube.dfnbd.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "TV ALIFLAILA BD",
+    "url": "http://tv.aliflailabd.com",
+    "type": "TV"
+  },
+  {
+    "name": "TV ALPHA MEDIA ZONE",
+    "url": "http://tv.alphamediazone.com/",
+    "type": "TV"
+  },
+  {
+    "name": "TV AMR BD",
+    "url": "http://tv.amrbd.com",
+    "type": "TV"
+  },
+  {
+    "name": "TV ANOS BD",
+    "url": "http://tv.anosbd.com",
+    "type": "TV"
+  },
+  {
+    "name": "TV BASNET BD",
+    "url": "http://tv.basnetbd.com/",
+    "type": "TV"
+  },
+  {
+    "name": "TV CTG OZ",
+    "url": "http://tv.ctgoz.com",
+    "type": "TV"
+  },
+  {
+    "name": "TV DFLIX LIVE",
+    "url": "http://tv.dflix.live",
+    "type": "TV"
+  },
+  {
+    "name": "TV DFLIX LIVE",
+    "url": "http://tv.dflix.live/",
+    "type": "TV"
+  },
+  {
+    "name": "TV DFN",
+    "url": "http://tv.dfn.net",
+    "type": "TV"
+  },
+  {
+    "name": "TV DFN BD",
+    "url": "http://tv.dfnbd.net",
+    "type": "TV"
+  },
+  {
+    "name": "TV EBOX LIVE",
+    "url": "http://tv.ebox.live",
+    "type": "TV"
+  },
+  {
+    "name": "TV EBOX LIVE",
+    "url": "http://tv.ebox.live/",
+    "type": "TV"
+  },
+  {
+    "name": "TV FLASH NET BD",
+    "url": "http://tv.flashnetbd.net",
+    "type": "TV"
+  },
+  {
+    "name": "TV FN BD",
+    "url": "http://tv.fn-bd.com",
+    "type": "TV"
+  },
+  {
+    "name": "TV HITECH ISP COM LIVE",
+    "url": "http://tv.hitechisp.com/live-tv.html",
+    "type": "TV"
+  },
+  {
+    "name": "TV IHUB LIVE",
+    "url": "http://tv.ihub.live/",
+    "type": "TV"
+  },
+  {
+    "name": "TV KHULNA FLIX",
+    "url": "http://tv.khulnaflix.net",
+    "type": "TV"
+  },
+  {
+    "name": "TV LINK TECH NET",
+    "url": "http://tv.linktech.net.bd",
+    "type": "TV"
+  },
+  {
+    "name": "TV LINK TECH NET",
+    "url": "http://tv.linktech.net.bd/",
+    "type": "TV"
+  },
+  {
+    "name": "TV MEDIA LINK24",
+    "url": "http://tv.medialink24.net",
+    "type": "TV"
+  },
+  {
+    "name": "TV MEGAPLEX BD",
+    "url": "http://tv.megaplexbd.com/",
+    "type": "TV"
+  },
+  {
+    "name": "TV MTBSL",
+    "url": "http://tv.mtbsl.com",
+    "type": "TV"
+  },
+  {
+    "name": "TV MY MOVIE BAZAR",
+    "url": "http://tv.mymoviebazar.net",
+    "type": "TV"
+  },
+  {
+    "name": "TV MY MOVIE BAZAR",
+    "url": "http://tv.mymoviebazar.net/",
+    "type": "TV"
+  },
+  {
+    "name": "TV NEO BD",
+    "url": "http://tv.neobd.net",
+    "type": "TV"
+  },
+  {
+    "name": "TV POWER NET BD",
+    "url": "http://tv.powernetbd.com",
+    "type": "TV"
+  },
+  {
+    "name": "TV RANGDHANU LIVE",
+    "url": "http://tv.rangdhanu.live",
+    "type": "TV"
+  },
+  {
+    "name": "TV RANGHANU LIVE",
+    "url": "http://tv.ranghanu.live/",
+    "type": "TV"
+  },
+  {
+    "name": "TV ROARZONE INFO",
+    "url": "http://tv.roarzone.info/",
+    "type": "TV"
+  },
+  {
+    "name": "TV SATRONG LIVE",
+    "url": "http://tv.satrong.live",
+    "type": "TV"
+  },
+  {
+    "name": "TV SPARKLINK BD",
+    "url": "http://tv.sparklinkbd.com",
+    "type": "TV"
+  },
+  {
+    "name": "TV TAJPATA",
+    "url": "http://tv.tajpata.com/",
+    "type": "TV"
+  },
+  {
+    "name": "TV TETRASOFT BD",
+    "url": "http://tv.tetrasoftbd.com",
+    "type": "TV"
+  },
+  {
+    "name": "TV THUNDER BD",
+    "url": "http://tv.thunderbd.com",
+    "type": "TV"
+  },
+  {
+    "name": "TV UNIFIED CORE",
+    "url": "http://tv.unifiedcore.net/",
+    "type": "TV"
+  },
+  {
+    "name": "TV2 EBOX LIVE",
+    "url": "http://tv2.ebox.live",
+    "type": "TV"
+  },
+  {
+    "name": "TV BD LIVE",
+    "url": "http://tvbd.live/",
+    "type": "TV"
+  },
+  {
+    "name": "UBN BD",
+    "url": "http://ubnbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNIQUE24",
+    "url": "http://unique24.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UTURN BD LIVE",
+    "url": "http://uturnbd.live",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "VDOMELA",
+    "url": "http://vdomela.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "VDOMELA",
+    "url": "http://vdomela.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "VIDEO ELEPHANT BD",
+    "url": "http://videoelephantbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "WATCH LIVE ALL",
+    "url": "http://watchliveall.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "WW1 ALIBABA NETWORK",
+    "url": "http://ww1.alibabanetwork.net/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "WW12 UNIQUE DOWNLOAD BD",
+    "url": "http://ww12.uniquedownloadbd.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "A1 CYBERLINK BD",
+    "url": "http://www.a1cyberlinkbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "A1 CYBERLINK BD",
+    "url": "http://www.a1cyberlinkbd.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "ADHARALO",
+    "url": "http://www.adharalo.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "AG COMMUNICATION",
+    "url": "http://www.agcommunication.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "ALPHA BROADWAY",
+    "url": "http://www.alphabroadway.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "AMAZE TV",
+    "url": "http://www.amaze-tv.com",
+    "type": "TV"
+  },
+  {
+    "name": "ANT BD",
+    "url": "http://www.antbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "ARAFNET BD",
+    "url": "http://www.arafnetbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "AS BD",
+    "url": "http://www.as-bd.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "AVA BD NET",
+    "url": "http://www.avabdnet.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "BANGLA FILM HD",
+    "url": "http://www.banglafilmhd.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "BANGLA NATOK HD",
+    "url": "http://www.banglanatokhd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "BD BROADBAND COM",
+    "url": "http://www.bdbroadband.com/ftp/",
+    "type": "FTP"
+  },
+  {
+    "name": "BD FUN CLUB",
+    "url": "http://www.bdfun.club/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "BD IX MEDIA",
+    "url": "http://www.bdixmedia.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "BD LAN",
+    "url": "http://www.bdlan.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "BD SPEED",
+    "url": "http://www.bdspeed.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "BEEFLIX BIZ",
+    "url": "http://www.beeflix.biz",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "BHUIYAN ONLINE",
+    "url": "http://www.bhuiyan-online.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "BIG FIVE GLORIES",
+    "url": "http://www.bigfiveglories.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "BIJOY",
+    "url": "http://www.bijoy.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "BINODONMELA",
+    "url": "http://www.binodonmela.net/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "BIOSCOPE LIVE",
+    "url": "http://www.bioscopelive.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "BOGRA ONLINE BD",
+    "url": "http://www.bograonlinebd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "BOL MOVIES",
+    "url": "http://www.bolmovies.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "BOL MOVIES",
+    "url": "http://www.bolmovies.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "BOSS BD",
+    "url": "http://www.bossbd.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "BROADBAND AT HOME",
+    "url": "http://www.broadbandathome.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "BROTHERS IT BD",
+    "url": "http://www.brothersitbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "C1 MOVIES",
+    "url": "http://www.c1movies.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "C1 MOVIES",
+    "url": "http://www.c1movies.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CANDY BD",
+    "url": "http://www.candybd.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CANDY BD",
+    "url": "http://www.candybd.net/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CHILL BD",
+    "url": "http://www.chillbd.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CINE BIOSCOPE",
+    "url": "http://www.cinebioscope.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CINE BIOSCOPE",
+    "url": "http://www.cinebioscope.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CINEHUB24",
+    "url": "http://www.cinehub24.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CINEHUB24",
+    "url": "http://www.cinehub24.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CRAZY HD",
+    "url": "http://www.crazyhd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CTG FLIX",
+    "url": "http://www.ctgflix.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CTG FLIX",
+    "url": "http://www.ctgflix.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CTG HALL",
+    "url": "http://www.ctghall.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CTG HALL",
+    "url": "http://www.ctghall.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CTG HUB",
+    "url": "http://www.ctghub.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CTG STREAM",
+    "url": "http://www.ctgstream.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CTG TEL",
+    "url": "http://www.ctgtel.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CTG TV LIVE",
+    "url": "http://www.ctgtv.live/",
+    "type": "TV"
+  },
+  {
+    "name": "DAILY VISION TV",
+    "url": "http://www.dailyvision.tv",
+    "type": "TV"
+  },
+  {
+    "name": "DDN BD FUN",
+    "url": "http://www.ddnbd.fun/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "DHAKA DOWNLOAD",
+    "url": "http://www.dhakadownload.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "DHAKA MOVIE",
+    "url": "http://www.dhakamovie.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "DNET BD",
+    "url": "http://www.dnetbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "DNF TP BD",
+    "url": "http://www.dnftpbd.com/",
+    "type": "FTP"
+  },
+  {
+    "name": "DORIDRO",
+    "url": "http://www.doridro.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "DOT INTERNET BD",
+    "url": "http://www.dotinternetbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "DUGGI LIVE",
+    "url": "http://www.duggilive.com/",
+    "type": "TV"
+  },
+  {
+    "name": "EBOX LIVE",
+    "url": "http://www.ebox.live/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "ECT LINK",
+    "url": "http://www.ectlink.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "ELAACH",
+    "url": "http://www.elaach.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "ELAACH",
+    "url": "http://www.elaach.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "ENJOY NET",
+    "url": "http://www.enjoy.net.bd",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "EVONET BD",
+    "url": "http://www.evonetbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FILE HIPPO",
+    "url": "http://www.filehippo.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FLASH NET BD",
+    "url": "http://www.flashnetbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FNET CTG COM INDEX PHP",
+    "url": "http://www.fnetctg.com/index.php/bdix-list",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FNF ONLINE BD",
+    "url": "http://www.fnfonlinebd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FOCUS ONLINE CTG",
+    "url": "http://www.focusonlinectg.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FREEDOM ONLINE BD",
+    "url": "http://www.freedomonlinebd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FREE DOWNLOAD BD",
+    "url": "http://www.freedownloadbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FREE MEDIA BD",
+    "url": "http://www.freemediabd.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FREE MEDIA BD COM HOME",
+    "url": "http://www.freemediabd.com/Home/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FREE TORRENT BD",
+    "url": "http://www.freetorrentbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FRIENDS ONLINE BD",
+    "url": "http://www.friendsonlinebd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FTP BD",
+    "url": "http://www.ftpbd.net",
+    "type": "FTP"
+  },
+  {
+    "name": "FTP BD",
+    "url": "http://www.ftpbd.net/",
+    "type": "FTP"
+  },
+  {
+    "name": "FULL BANGLA MOVIE",
+    "url": "http://www.fullbanglamovie.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FUNTIME BD",
+    "url": "http://www.funtimebd.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FURIOUS NET",
+    "url": "http://www.furiousnet.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FURIOUS NET NET",
+    "url": "http://www.furiousnet.net/ftp/",
+    "type": "FTP"
+  },
+  {
+    "name": "GEN VIDEOS ORG",
+    "url": "http://www.genvideos.org",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "IHUB LIVE",
+    "url": "http://www.ihub.live",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "INTREPID BD",
+    "url": "http://www.intrepidbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "JAGO BD",
+    "url": "http://www.jagobd.com",
+    "type": "TV"
+  },
+  {
+    "name": "JAGO BD",
+    "url": "http://www.jagobd.com/",
+    "type": "TV"
+  },
+  {
+    "name": "JANNAT MIR INTERNET SERVICE",
+    "url": "http://www.jannatmirinternetservice.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "JOIN4 FILMS",
+    "url": "http://www.join4films.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "KALPONIK NET",
+    "url": "http://www.kalponik.net.bd/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "LINKIN NET",
+    "url": "http://www.linkinnet.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MARIUM NETWORK",
+    "url": "http://www.mariumnetwork.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MEGAPLEX BD",
+    "url": "http://www.megaplexbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MEGAPLEX BD",
+    "url": "http://www.megaplexbd.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MIXON BD",
+    "url": "http://www.mixonbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MOJALOSS",
+    "url": "http://www.mojaloss.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MOJAR FTP",
+    "url": "http://www.mojarftp.com/",
+    "type": "FTP"
+  },
+  {
+    "name": "MOVIE MAJA",
+    "url": "http://www.moviemaja.net/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MOVIE MAJA NET DATA",
+    "url": "http://www.moviemaja.net/Data",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MOVIEMELA LIVE",
+    "url": "http://www.moviemela.live",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MOVIEMELA LIVE",
+    "url": "http://www.moviemela.live/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MOVIE SERVER",
+    "url": "http://www.movieserver.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MOVIE SERVER",
+    "url": "http://www.movieserver.net/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MY CYBERNEST",
+    "url": "http://www.mycybernest.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "NAGORDOLA COM",
+    "url": "http://www.nagordola.com.bd",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "NAGORDOLA COM",
+    "url": "http://www.nagordola.com.bd/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "NATURAL BD",
+    "url": "http://www.naturalbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "NATURAL BD",
+    "url": "http://www.naturalbd.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "NETMATRIX BD",
+    "url": "http://www.netmatrixbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "NET ONLINE BD",
+    "url": "http://www.netonlinebd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "NETVIZ MEDIA",
+    "url": "http://www.netvizmedia.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "ONNOSOMOY COM 8096 WEB HOME",
+    "url": "http://www.onnosomoy.com:8096/web/index.html#!/home.html",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "ONNOSOMOY COM 8096 WEB STARTUP LOGIN",
+    "url": "http://www.onnosomoy.com:8096/web/index.html#!/startup/login.html?serverId=89ea8d6de5814c3b93294ebba34da8bd",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "ONTOHIN BD",
+    "url": "http://www.ontohinbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "PAITARA",
+    "url": "http://www.paitara.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "PEGLEG IT",
+    "url": "http://www.pegleg.it",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "PIPEX BD",
+    "url": "http://www.pipexbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "PLUS NET",
+    "url": "http://www.plus.net.bd",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "QUICK ONLINE FTP",
+    "url": "http://www.quickonlineftp.com",
+    "type": "FTP"
+  },
+  {
+    "name": "RDC ONLINE BD",
+    "url": "http://www.rdconlinebd.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "ROARZONE INFO",
+    "url": "http://www.roarzone.info",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "SHOWTIME BD",
+    "url": "http://www.showtimebd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "SHOWTIME BD",
+    "url": "http://www.showtimebd.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "SMARTFLIX DIGITAL",
+    "url": "http://www.smartflix.digital/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "SMARTNET LTD",
+    "url": "http://www.smartnetltd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "SWIFT NET BD",
+    "url": "http://www.swiftnetbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "TAJPATA",
+    "url": "http://www.tajpata.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "TEPANTOR BD",
+    "url": "http://www.tepantorbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "TETRASOFT BD",
+    "url": "http://www.tetrasoftbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "THE INTROVISION BD",
+    "url": "http://www.theintrovisionbd.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "TIMEPASS BD LIVE",
+    "url": "http://www.timepassbd.live",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "TIMEPASS BD LIVE",
+    "url": "http://www.timepassbd.live/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "TNET FTP",
+    "url": "http://www.tnetftp.com",
+    "type": "FTP"
+  },
+  {
+    "name": "TORRENT BD",
+    "url": "http://www.torrentbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "TV SPORTS ML MOVIEHAAT",
+    "url": "http://www.tvsports.mlhttp://moviehaat.net/index.php",
+    "type": "TV"
+  },
+  {
+    "name": "UNIQUE ONLINE BD",
+    "url": "http://www.uniqueonlinebd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNIVISION BD",
+    "url": "http://www.univisionbd.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "VDOBITE",
+    "url": "http://www.vdobite.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "VDOMELA",
+    "url": "http://www.vdomela.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "WINNER IT BD",
+    "url": "http://www.winneritbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "YOUR NET COMMUNICATIONS",
+    "url": "http://www.yournetcommunications.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "ZERO DOLLAR MOVIES",
+    "url": "http://www.zerodollarmovies.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "ZERO ONE ONLINE",
+    "url": "http://www.zerooneonline.net/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "ZIP NET BD",
+    "url": "http://www.zipnetbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "ZOOM ONLINE COM",
+    "url": "http://zoomonline.com.bd",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "https://10.16.100.244/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "https://103.91.53.248",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "UNKNOWN",
+    "url": "https://15.1.1.1/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "ABI BD",
+    "url": "https://abibd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "ACTIVE MBD",
+    "url": "https://activembd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "ACTIVE MBD COM INTERNET FTP SERVER",
+    "url": "https://activembd.com/internet/ftp-server",
+    "type": "FTP"
+  },
+  {
+    "name": "ADDA NETWORK",
+    "url": "https://addanetwork.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "ADDA NETWORK",
+    "url": "https://addanetwork.net/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "ALIFA NET",
+    "url": "https://alifanet.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "ALL SERVER YOLASITE",
+    "url": "https://allserver.yolasite.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "APPLE LINK BD",
+    "url": "https://applelinkbd.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "ARAFNET BD",
+    "url": "https://arafnetbd.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "ASIAN NETWORK BD",
+    "url": "https://asiannetworkbd.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "BASNET BD",
+    "url": "https://basnetbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "BD FLIX LIVE",
+    "url": "https://bdflixlive.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "BD IX COM BD MAINWEB LIST",
+    "url": "https://bdix.com.bd/mainweb/list.html",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "BD LAN",
+    "url": "https://bdlan.net/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "BIOSCOPE LIVE",
+    "url": "https://bioscopelive.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "BONDHUIT BD",
+    "url": "https://bondhuitbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "BONGO BD",
+    "url": "https://bongobd.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "BONSAI HD LIVE",
+    "url": "https://bonsaihd.live",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "BTEK BD",
+    "url": "https://btekbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "C NETWORK BD",
+    "url": "https://cnetworkbd.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CRAZY CTG",
+    "url": "https://crazyctg.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CRAZY NET BD",
+    "url": "https://crazynetbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CTG OZ",
+    "url": "https://ctgoz.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CTG OZ",
+    "url": "https://ctgoz.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CUE CLUB COM",
+    "url": "https://cueclub.com.bd",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "DDN BD",
+    "url": "https://ddnbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "DHAKA FTP",
+    "url": "https://dhakaftp.com/",
+    "type": "FTP"
+  },
+  {
+    "name": "DIGITAL BROADBAND COM",
+    "url": "https://digitalbroadband.com.bd",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "DIT BD",
+    "url": "https://ditbd.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "DNET DRIVE",
+    "url": "https://dnetdrive.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "DNET DRIVE",
+    "url": "https://dnetdrive.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "DNET DRIVE COM MOVIES",
+    "url": "https://dnetdrive.com/movies/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "DREAM NET BD",
+    "url": "https://dreamnetbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "EASY IT BD",
+    "url": "https://easyitbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "ELAACH",
+    "url": "https://elaach.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "EP NET BD",
+    "url": "https://epnetbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "F4 INTERNET SOLUTION",
+    "url": "https://f4internetsolution.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FAST NET BD ORG",
+    "url": "https://fastnetbd.org",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FAST PLEX",
+    "url": "https://fastplex.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FREE MOVIES FULL",
+    "url": "https://freemoviesfull.net/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FTP1 BD IX COM",
+    "url": "https://ftp1.bdix.com.bd",
+    "type": "FTP"
+  },
+  {
+    "name": "FTP2 BD IX COM",
+    "url": "https://ftp2.bdix.com.bd",
+    "type": "FTP"
+  },
+  {
+    "name": "FTP3 BD IX COM",
+    "url": "https://ftp3.bdix.com.bd",
+    "type": "FTP"
+  },
+  {
+    "name": "FTP4 BD IX COM",
+    "url": "https://ftp4.bdix.com.bd",
+    "type": "FTP"
+  },
+  {
+    "name": "FTP5 BD IX COM",
+    "url": "https://ftp5.bdix.com.bd",
+    "type": "FTP"
+  },
+  {
+    "name": "GEN VIDEOS ORG",
+    "url": "https://genvideos.org",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "GOKU TO HOME",
+    "url": "https://goku.to/home",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "IBD PLEX",
+    "url": "https://ibdplex.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "IBD PLEX",
+    "url": "https://ibdplex.net/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "IBDS NET",
+    "url": "https://ibds.net.bd",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "IBOX BD CLUB",
+    "url": "https://iboxbd.club",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "IFRA NETWORK",
+    "url": "https://ifra.network",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "INFO LINK BD",
+    "url": "https://infolinkbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "INTERNET ZONE BD",
+    "url": "https://internetzonebd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "ISMART NET",
+    "url": "https://ismart.net.bd",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "IT NET ZONE",
+    "url": "https://itnetzone.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "JONY CABLE",
+    "url": "https://jonycable.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "KBN ONLINE BD",
+    "url": "https://kbnonlinebd.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "KMN BD",
+    "url": "https://kmnbd.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MAHIR BD",
+    "url": "https://mahirbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MAHIR BD COM MEDIA",
+    "url": "https://mahirbd.com/media.php",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MEDIA BD IX COM",
+    "url": "https://media.bdix.com.bd",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MLS BD CO",
+    "url": "https://mlsbd.co/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MLW BD PW",
+    "url": "https://mlwbd.pw",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MOJALOSS",
+    "url": "https://mojaloss.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MOVIE BD IX COM",
+    "url": "https://movie.bdix.com.bd",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MOVIE4KTO",
+    "url": "https://movie4kto.net/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MOVIE BOX BD",
+    "url": "https://movieboxbd.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MOVIES COUNTER HD CLUB",
+    "url": "https://moviescounterhd.club",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MOVIES HD WATCH",
+    "url": "https://movieshd.watch/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MSM ONLINE BD",
+    "url": "https://msmonlinebd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MY MOVIE BAZAR NET MOVIES",
+    "url": "https://mymoviebazar.net/movies",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MYT LINK BD",
+    "url": "https://mytlinkbd.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "NETCOM ISP",
+    "url": "https://netcomisp.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "NEW CIRCLE FTP",
+    "url": "https://new.circleftp.net/",
+    "type": "FTP"
+  },
+  {
+    "name": "ONS BD",
+    "url": "https://onsbd.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "PIAY IFLIX",
+    "url": "https://piay.iflix.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "PLAY ROARMEDIAZONE",
+    "url": "https://play.roarmediazone.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "PRESS LINK BD",
+    "url": "https://presslinkbd.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "QUETEL BD",
+    "url": "https://quetelbd.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "RAPID NET BD",
+    "url": "https://rapidnetbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "RAPID NET BD COM FTP HTML",
+    "url": "https://rapidnetbd.com/FTP.html",
+    "type": "FTP"
+  },
+  {
+    "name": "REAL STATION LIVE",
+    "url": "https://realstation.live",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "RIO CTG BLOGSPOT",
+    "url": "https://rioctg.blogspot.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "RL CAFE NET",
+    "url": "https://rlcafenet.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "RS NET BD",
+    "url": "https://rsnetbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "SALAM ONLINE COM",
+    "url": "https://salamonline.com.bd",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "SAM FTP",
+    "url": "https://samftp.com",
+    "type": "FTP"
+  },
+  {
+    "name": "SARDER NET",
+    "url": "https://sardernet.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "SITES GOOGLE COM AMBER IT SERVERS",
+    "url": "https://sites.google.com/view/amberitservers",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "SKYNET ONLINE BD",
+    "url": "https://skynetonlinebd.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "SLN ISP COM",
+    "url": "https://slnisp.com.bd",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "SNS BD",
+    "url": "https://snsbd.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "SPARK LINK BD",
+    "url": "https://sparklinkbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "SPARK NET BD",
+    "url": "https://sparknetbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "SPEED NET KHULNA",
+    "url": "https://speednetkhulna.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "SPEEDO NET",
+    "url": "https://speedo.net.bd",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "SR NETWORKS WEBS",
+    "url": "https://srnetworks.webs.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "SR NETWORKS WEBS COM FTP LIVE TV",
+    "url": "https://srnetworks.webs.com/ftp-live-tv",
+    "type": "TV"
+  },
+  {
+    "name": "SS ONLINE BD",
+    "url": "https://ssonlinebd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "STORAGE SUNPLEX",
+    "url": "https://storage.sunplex.net/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "SUNPLEX",
+    "url": "https://sunplex.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "SUNPLEX",
+    "url": "https://sunplex.net/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "SUPERNET BD",
+    "url": "https://supernetbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "TALTOLA",
+    "url": "https://taltola.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "THE POTATO",
+    "url": "https://the-potato.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "TOUCH ONLINE NET",
+    "url": "https://touchonline.net.bd",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "WEB RANGERS",
+    "url": "https://webrangers.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "ALIBABA NETWORK",
+    "url": "https://www.alibabanetwork.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "ANOS BD",
+    "url": "https://www.anosbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "ANOS BD COM",
+    "url": "https://www.anosbd.com/ftp",
+    "type": "FTP"
+  },
+  {
+    "name": "ANOS BD COM",
+    "url": "https://www.anosbd.com/ftp/",
+    "type": "FTP"
+  },
+  {
+    "name": "APPLE NET BD",
+    "url": "https://www.applenetbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "BD7 HUB",
+    "url": "https://www.bd7hub.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "BD LAN",
+    "url": "https://www.bdlan.net/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "BM NETWORK BD TK",
+    "url": "https://www.bmnetworkbd.tk",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "BONGO BD",
+    "url": "https://www.bongobd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "BONSAI HD FUN",
+    "url": "https://www.bonsaihd.fun/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "BUSINESS ZONE COM",
+    "url": "https://www.businesszone.com.bd",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CITY NET LIVE",
+    "url": "https://www.citynet.live",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CTG HUB",
+    "url": "https://www.ctghub.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CTG HUB",
+    "url": "https://www.ctghub.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "CYBERNET BD",
+    "url": "https://www.cybernetbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "DOLY IT CORNER",
+    "url": "https://www.dolyitcorner.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "DREAM ONLINE BD",
+    "url": "https://www.dreamonlinebd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FAST CYBER",
+    "url": "https://www.fastcyber.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FLIXJAR",
+    "url": "https://www.flixjar.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FLYNET BD",
+    "url": "https://www.flynetbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "GNET INTERNET",
+    "url": "https://www.gnetinternet.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "GNETWORK BD",
+    "url": "https://www.gnetworkbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "HK ONLINE COM",
+    "url": "https://www.hkonline.com.bd",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "IFLIX",
+    "url": "https://www.iflix.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "LIZA ONLINE BD",
+    "url": "https://www.lizaonlinebd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MAZEDA NETWORKS",
+    "url": "https://www.mazedanetworks.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MEDIAPLEX",
+    "url": "https://www.mediaplex.net/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MLS BD CO",
+    "url": "https://www.mlsbd.co/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MOJALOSS STREAM",
+    "url": "https://www.mojaloss.stream/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "MOJAR FTP",
+    "url": "https://www.mojarftp.com/",
+    "type": "FTP"
+  },
+  {
+    "name": "NATURAL BD",
+    "url": "https://www.naturalbd.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "NET AT HOME BD",
+    "url": "https://www.netathomebd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "NET AT HOME BD",
+    "url": "https://www.netathomebd.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "NET INFO BD",
+    "url": "https://www.netinfobd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "NOVUS NETWORK BD",
+    "url": "https://www.novusnetworkbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "POWER NET BD",
+    "url": "https://www.powernetbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "RAINBOW NETWORK BD",
+    "url": "https://www.rainbownetworkbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "RANGDHANU LIVE",
+    "url": "https://www.rangdhanu.live",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "RUNWAY BROADBAND COM MEDIA SERVER",
+    "url": "https://www.runwaybroadband.com/media-server",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "SK NET CITY",
+    "url": "https://www.sknetcity.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "SKY BIZ BD",
+    "url": "https://www.skybizbd.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "SKYNET COM BD",
+    "url": "https://www.skynet.com.bd/ftp/",
+    "type": "FTP"
+  },
+  {
+    "name": "SKYNET BD",
+    "url": "https://www.skynetbd.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "SMIRITY CABLE",
+    "url": "https://www.smiritycable.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "SMRITY CABLE",
+    "url": "https://www.smritycable.com/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "TETRASOFT BD",
+    "url": "https://www.tetrasoftbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "VIBE BD",
+    "url": "https://www.vibebd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "WORLD BD",
+    "url": "https://www.worldbd.net",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "YELLOW NET BD",
+    "url": "https://www.yellownetbd.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "YELLOW NET BD COM",
+    "url": "https://www.yellownetbd.com/ftp",
+    "type": "FTP"
+  },
+  {
+    "name": "PUTLOCKERS CAFE",
+    "url": "https://www1.putlockers.cafe/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "FMOVIES SE",
+    "url": "https://www6.fmovies.se/",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "YES NET COMMUNICATION",
+    "url": "https://yesnetcommunication.com",
+    "type": "UNKNOWN"
+  },
+  {
+    "name": "ZOOM ONLINE BD",
+    "url": "https://zoomonlinebd.net",
+    "type": "UNKNOWN"
+  }
+]
